@@ -22,8 +22,8 @@ You can add multiple Proxy Server, RDP,SSH<br>
 <br>
 <b>IMPLEMENTED PROXY SERVERS
 
- LIST</b>
-<br>
+ LIST</b></br>
+
 VIP72
 <br>
 LUMINATI
@@ -38,17 +38,11 @@ VERIZON
 IPSOCKS<br>
 PRIVATE_PROXY
 FREE_PROXY<br>
-PROXY-SCAN
-<br>
+PROXY-SCAN<br>
+
 --------------------------------------------------------------------------------------------------
 
-
 EVERY FLAG REQUEST SEND FROM EVERY OTHER RANDOM THREAD
-
 <br>
-
 Looking For Craigslist Ads Flagger? Look No More!!<br>
-
-
-
 Skype: adsflagger
