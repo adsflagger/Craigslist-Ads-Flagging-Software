@@ -3,24 +3,20 @@ You can also protect your own ads form others flagger by using “ Flag Best Of 
 
 
 <br>
-<b>FEATURE:</b>
-
-
+<b>FEATURE:</b><br>
 <br>
-One Click CL ads Flaging (Automated)
 
-<br>You Can Add 100 URL And Import URL
-<br>Get URL By Keyword
-
-<br>Auto random change Proxy, User-Agent, Referral
-
-<br>Per Flag Send Every 2-5 Seconds
-
-<br>Auto count flagg done or removed
-
-<br>Auto save all flagging information
-
-<br>You can add multiple Proxy Server, RDP,SSH
+One Click CL ads Flaging (Automated)<br>
+You Can Add 100 URL And Import URL<br>
+Get URL By Keyword
+<br>
+Auto random change Proxy, User-Agent, Referral
+<br>
+Per Flag Send Every 2-5 Seconds<br>
+Auto count flagg done or removed
+<br>
+Auto save all flagging information<br>
+You can add multiple Proxy Server, RDP,SSH<br>
 
 
 <br>
@@ -34,17 +30,15 @@ LUMINATI
 <br>
 LUXSOCKS
 <br>
-PROXY_RENTAL
-
-<br>ANONYMOUS-PROXIES
-
+PROXY_RENTAL<br>
+ANONYMOUS-PROXIES
+<br>
 VERIZON
 <br>
-IPSOCKS
-
-<br>PRIVATE_PROXY
-FREE_PROXY
-PROXY-SCAN 
+IPSOCKS<br>
+PRIVATE_PROXY
+FREE_PROXY<br>
+PROXY-SCAN
 <br>
 --------------------------------------------------------------------------------------------------
 
