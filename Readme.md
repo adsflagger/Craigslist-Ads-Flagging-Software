@@ -20,9 +20,7 @@ You can add multiple Proxy Server, RDP,SSH<br>
 
 
 <br>
-<b>IMPLEMENTED PROXY SERVERS
-
- LIST</b></br>
+<b>IMPLEMENTED PROXY SERVERS LIST</b></br>
 
 VIP72
 <br>
