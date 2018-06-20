@@ -1,0 +1,392 @@
+alabama,auburn
+alabama,birmingham
+alabama,dothan
+alabama,florence / muscle shoals
+alabama,gadsden-anniston
+alabama,huntsville / decatur
+alabama,mobile
+alabama,montgomery
+alabama,tuscaloosa
+alaska,anchorage / mat-su
+alaska,fairbanks
+alaska,kenai peninsula
+alaska,southeast alaska
+arizona,flagstaff / sedona
+arizona,mohave county
+arizona,phoenix
+arizona,prescott
+arizona,show low
+arizona,sierra vista
+arizona,tucson
+arizona,yuma
+arkansas,fayetteville
+arkansas,fort smith
+arkansas,jonesboro
+arkansas,little rock
+arkansas,texarkana
+california,bakersfield
+california,chico
+california,fresno / madera
+california,gold country
+california,hanford-corcoran
+california,humboldt county
+california,imperial county
+california,inland empire
+california,los angeles
+california,mendocino county
+california,merced
+california,modesto
+california,monterey bay
+california,orange county
+california,palm springs
+california,redding
+california,sacramento
+california,san diego
+california,san francisco bay area
+california,san luis obispo
+california,santa barbara
+california,santa maria
+california,siskiyou county
+california,stockton
+california,susanville
+california,ventura county
+california,visalia-tulare
+california,yuba-sutter
+colorado,boulder
+colorado,colorado springs
+colorado,denver
+colorado,eastern co
+colorado,fort collins / north co
+colorado,high rockies
+colorado,pueblo
+colorado,western slope
+connecticut,eastern ct
+connecticut,hartford
+connecticut,new haven
+connecticut,northwest ct
+delaware,delaware
+district of columbia,washington
+florida,daytona beach
+florida,florida keys
+florida,fort lauderdale
+florida,ft myers / sw florida
+florida,gainesville
+florida,heartland florida
+florida,jacksonville
+florida,lakeland
+florida,north central fl
+florida,ocala
+florida,okaloosa / walton
+florida,orlando
+florida,panama city
+florida,pensacola
+florida,sarasota-bradenton
+florida,south florida
+florida,space coast
+florida,st augustine
+florida,tallahassee
+florida,tampa bay area
+florida,treasure coast
+florida,west palm beach
+georgia,albany
+georgia,athens
+georgia,atlanta
+georgia,augusta
+georgia,brunswick
+georgia,columbus
+georgia,macon / warner robins
+georgia,northwest ga
+georgia,savannah / hinesville
+georgia,statesboro
+georgia,valdosta
+idaho,boise
+idaho,east idaho
+idaho,lewiston / clarkston
+idaho,twin falls
+illinois,bloomington-normal
+illinois,champaign urbana
+illinois,chicago
+illinois,decatur
+illinois,la salle co
+illinois,mattoon-charleston
+illinois,peoria
+illinois,rockford
+illinois,southern illinois
+illinois,springfield
+illinois,western il
+indiana,bloomington
+indiana,evansville
+indiana,fort wayne
+indiana,indianapolis
+indiana,kokomo
+indiana,lafayette / west lafayette
+indiana,muncie / anderson
+indiana,richmond
+indiana,south bend / michiana
+indiana,terre haute
+iowa,ames
+iowa,cedar rapids
+iowa,des moines
+iowa,dubuque
+iowa,fort dodge
+iowa,iowa city
+iowa,mason city
+iowa,sioux city
+iowa,waterloo / cedar falls
+kansas,lawrence
+kansas,manhattan
+kansas,salina
+kansas,southeast ks
+kansas,southwest ks
+kansas,topeka
+kansas,wichita
+kentucky,bowling green
+kentucky,eastern kentucky
+kentucky,lexington
+kentucky,louisville
+kentucky,owensboro
+louisiana,baton rouge
+louisiana,central louisiana
+louisiana,houma
+louisiana,lafayette
+louisiana,lake charles
+louisiana,monroe
+louisiana,new orleans
+louisiana,shreveport
+maine,maine
+maryland,annapolis
+maryland,baltimore
+maryland,frederick
+massachusetts,boston
+massachusetts,worcester / central ma
+michigan,ann arbor
+michigan,battle creek
+michigan,detroit metro
+michigan,flint
+michigan,grand rapids
+michigan,holland
+michigan,jackson
+michigan,kalamazoo
+michigan,lansing
+michigan,monroe
+michigan,muskegon
+michigan,port huron
+michigan,saginaw-midland-baycity
+michigan,the thumb
+michigan,upper peninsula
+minnesota,bemidji
+minnesota,brainerd
+minnesota,duluth / superior
+minnesota,mankato
+minnesota,minneapolis / st paul
+minnesota,rochester
+minnesota,southwest mn
+minnesota,st cloud
+mississippi,gulfport / biloxi
+mississippi,hattiesburg
+mississippi,jackson
+mississippi,meridian
+mississippi,north mississippi
+mississippi,southwest ms
+missouri,columbia / jeff city
+missouri,joplin
+missouri,kansas city
+missouri,kirksville
+missouri,lake of the ozarks
+missouri,southeast missouri
+missouri,springfield
+missouri,st joseph
+missouri,st louis
+montana,billings
+montana,bozeman
+montana,butte
+montana,great falls
+montana,helena
+montana,kalispell
+montana,missoula
+nebraska,grand island
+nebraska,lincoln
+nebraska,north platte
+nebraska,omaha / council bluffs
+nebraska,scottsbluff / panhandle
+nevada,elko
+nevada,las vegas
+nevada,reno / tahoe
+new jersey,central nj
+new jersey,jersey shore
+new jersey,north jersey
+new jersey,south jersey
+new mexico,albuquerque
+new mexico,clovis / portales
+new mexico,farmington
+new mexico,las cruces
+new mexico,roswell / carlsbad
+new mexico,santa fe / taos
+new york,albany
+new york,binghamton
+new york,buffalo
+new york,catskills
+new york,chautauqua
+new york,elmira-corning
+new york,finger lakes
+new york,glens falls
+new york,hudson valley
+new york,ithaca
+new york,long island
+new york,new york city
+new york,oneonta
+new york,plattsburgh-adirondacks
+new york,potsdam-canton-massena
+new york,rochester
+new york,syracuse
+new york,twin tiers ny/pa
+new york,utica-rome-oneida
+new york,watertown
+north carolina,asheville
+north carolina,boone
+north carolina,charlotte
+north carolina,fayetteville
+north carolina,greensboro
+north carolina,hickory / lenoir
+north carolina,jacksonville
+north carolina,raleigh / durham / ch
+north carolina,wilmington
+north dakota,bismarck
+north dakota,fargo / moorhead
+north dakota,grand forks
+north dakota,north dakota
+ohio,akron / canton
+ohio,ashtabula
+ohio,athens
+ohio,chillicothe
+ohio,cincinnati
+ohio,cleveland
+ohio,columbus
+ohio,dayton / springfield
+ohio,lima / findlay
+ohio,mansfield
+ohio,sandusky
+ohio,toledo
+ohio,tuscarawas co
+ohio,youngstown
+ohio,zanesville / cambridge
+oklahoma,lawton
+oklahoma,northwest ok
+oklahoma,oklahoma city
+oklahoma,stillwater
+oklahoma,tulsa
+oregon,bend
+oregon,corvallis/albany
+oregon,east oregon
+oregon,eugene
+oregon,klamath falls
+oregon,medford-ashland
+oregon,oregon coast
+oregon,portland
+oregon,roseburg
+oregon,salem
+pennsylvania,altoona-johnstown
+pennsylvania,erie
+pennsylvania,harrisburg
+pennsylvania,lancaster
+pennsylvania,lehigh valley
+pennsylvania,meadville
+pennsylvania,philadelphia
+pennsylvania,pittsburgh
+pennsylvania,poconos
+pennsylvania,reading
+pennsylvania,scranton / wilkes-barre
+pennsylvania,state college
+pennsylvania,williamsport
+pennsylvania,york
+south carolina,charleston
+south carolina,columbia
+south carolina,florence
+south carolina,greenville / upstate
+south carolina,hilton head
+south carolina,myrtle beach
+south dakota,northeast sd
+south dakota,pierre / central sd
+south dakota,rapid city / west sd
+south dakota,sioux falls / se sd
+south dakota,south dakota
+tennessee,chattanooga
+tennessee,clarksville
+tennessee,cookeville
+tennessee,jackson
+tennessee,knoxville
+tennessee,memphis
+tennessee,nashville
+tennessee,tri-cities
+texas,abilene
+texas,amarillo
+texas,austin
+texas,beaumont / port arthur
+texas,brownsville
+texas,college station
+texas,corpus christi
+texas,dallas / fort worth
+texas,deep east texas
+texas,del rio / eagle pass
+texas,el paso
+texas,galveston
+texas,houston
+texas,killeen / temple / ft hood
+texas,laredo
+texas,lubbock
+texas,mcallen / edinburg
+texas,odessa / midland
+texas,san angelo
+texas,san antonio
+texas,san marcos
+texas,southwest tx
+texas,texoma
+texas,tyler / east tx
+texas,victoria
+texas,waco
+texas,wichita falls
+utah,logan
+utah,ogden-clearfield
+utah,provo / orem
+utah,salt lake city
+utah,st george
+virginia,charlottesville
+virginia,danville
+virginia,fredericksburg
+virginia,hampton roads
+virginia,harrisonburg
+virginia,lynchburg
+virginia,new river valley
+virginia,richmond
+virginia,roanoke
+virginia,southwest va
+virginia,winchester
+washington,bellingham
+washington,kennewick-pasco-richland
+washington,moses lake
+washington,olympic peninsula
+washington,pullman / moscow
+washington,seattle-tacoma
+washington,spokane / coeur d'alene
+washington,wenatchee
+washington,yakima
+west virginia,charleston
+west virginia,eastern panhandle
+west virginia,huntington-ashland
+west virginia,morgantown
+west virginia,northern panhandle
+west virginia,parkersburg-marietta
+west virginia,southern wv
+west virginia,west virginia (old)
+wisconsin,appleton-oshkosh-fdl
+wisconsin,eau claire
+wisconsin,green bay
+wisconsin,janesville
+wisconsin,kenosha-racine
+wisconsin,la crosse
+wisconsin,madison
+wisconsin,milwaukee
+wisconsin,northern wi
+wisconsin,sheboygan
+wisconsin,wausau
+wyoming,wyoming

@@ -1,0 +1,8 @@
+MinDelay;3
+MaxDelay;5
+CCleaner;False
+PRUSERNAME;q.xpress@yahoo.com
+PRPASSWORD;Hard$2345
+SAVEFILEPATH;result.csv
+CCLEANER;C:\Program Files\CCleaner\CCleaner.exe
+REPEATFLAG;2
