@@ -2,58 +2,58 @@ Ads Flagger® is a bundle of “ Automated Craigslist SPAM Ads Removal Agents �
 You can also protect your own ads form others flagger by using “ Flag Best Of Craigslist “ Option ( Available on V2 Only )
 
 
+<br>
+<b>FEATURE:</b>
 
-FEATURE:
 
-
-
+<br>
 One Click CL ads Flaging (Automated)
 
-You Can Add 100 URL And Import URL
-Get URL By Keyword
+<br>You Can Add 100 URL And Import URL
+<br>Get URL By Keyword
 
-Auto random change Proxy, User-Agent, Referral
+<br>Auto random change Proxy, User-Agent, Referral
 
-Per Flag Send Every 2-5 Seconds
+<br>Per Flag Send Every 2-5 Seconds
 
-Auto count flagg done or removed
+<br>Auto count flagg done or removed
 
-Auto save all flagging information
+<br>Auto save all flagging information
 
-You can add multiple Proxy Server, RDP,SSH
+<br>You can add multiple Proxy Server, RDP,SSH
 
 
+<br>
+<b>IMPLEMENTED PROXY SERVERS
 
-IMPLEMENTED PROXY SERVERS
-
- LIST
-
+ LIST</b>
+<br>
 VIP72
-
+<br>
 LUMINATI
-
+<br>
 LUXSOCKS
-
+<br>
 PROXY_RENTAL
 
-ANONYMOUS-PROXIES
+<br>ANONYMOUS-PROXIES
 
 VERIZON
-
+<br>
 IPSOCKS
 
-PRIVATE_PROXY
+<br>PRIVATE_PROXY
 FREE_PROXY
 PROXY-SCAN 
-
+<br>
 --------------------------------------------------------------------------------------------------
 
 
 EVERY FLAG REQUEST SEND FROM EVERY OTHER RANDOM THREAD
 
+<br>
 
-
-Looking For Craigslist Ads Flagger? Look No More!!
+Looking For Craigslist Ads Flagger? Look No More!!<br>
 
 
 
